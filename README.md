@@ -117,7 +117,8 @@ The Profile Screen displays user-specific data. Users can view their current pla
 
 A view of the trailer playing functionality.
 
-![Screenshot 2024-04-16 112827](https://github.com/thrishalaa/netflix-clone/assets/147584982/a11b57a4-a06b-4520-a83a-cb9b7d8cffd1)
+![image](https://github.com/thrishalaa/Netflix-Clone/assets/147584982/c114743b-a540-4f8b-866c-46891034c1d5)
+
 
 
 ## Future Scope
